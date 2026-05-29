@@ -1,0 +1,35 @@
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 71.0938%
+Common Words: 77
+Longest Common Word: communication
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 0%
+Common Words: 0
+Longest Common Word: 
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 0%
+Common Words: 0
+Longest Common Word: 
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 0%
+Common Words: 0
+Longest Common Word: 
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 83.3333%
+Common Words: 15
+Longest Common Word: applications
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 31.25%
+Common Words: 5
+Longest Common Word: programming
+PLAGIARISM REPORT
+========================
+Similarity Percentage: 80%
+Common Words: 4
+Longest Common Word: programming
